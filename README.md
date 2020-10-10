@@ -30,3 +30,7 @@
 ## 6주차
 - 2020.09.26, 온라인, zoom (4명: 강현우, 권오훈, 하재혁, 황보람)
 - ARM System Developer's Guide (~364page: 4,5,6,7,8장 skip)
+
+## 7주차
+- 2020.10.10, 온라인 + 오프라인 (4명: 강현우, 권오훈, 하재혁, 황보람)
+- ARM System Developer's Guide (~517page: 10,11장 skip)
