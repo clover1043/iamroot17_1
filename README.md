@@ -34,3 +34,19 @@
 ## 7주차
 - 2020.10.10, 온라인 + 오프라인 (4명: 강현우, 권오훈, 하재혁, 황보람)
 - ARM System Developer's Guide (~517page: 10,11장 skip)
+
+## 8주차
+- 2020.10.17, A조로 통합, 온라인
+- head.S(1)
+http://www.iamroot.org/xe/index.php?document_srl=212919&mid=Note#0
+
+## 9주차
+- 2020.10.24, A조, 온라인
+- head.S(2)
+http://www.iamroot.org/xe/index.php?document_srl=212973&mid=Note#0
+
+## 10주차
+- 2020.10.31, A_2조, 온라인
+- head.S(3)
+- __create_page_tables 시작 ~ idmap map_memory까지
+
