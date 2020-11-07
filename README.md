@@ -50,3 +50,7 @@ http://www.iamroot.org/xe/index.php?document_srl=212973&mid=Note#0
 - head.S(3)
 - __create_page_tables 시작 ~ idmap map_memory까지
 
+## 11주차
+- 2020.11.07, A_2조, 온라인
+- head.S(4)
+- ~ __cpu_setup 까지
