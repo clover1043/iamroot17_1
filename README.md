@@ -54,3 +54,11 @@ http://www.iamroot.org/xe/index.php?document_srl=212973&mid=Note#0
 - 2020.11.07, A_2조, 온라인
 - head.S(4)
 - ~ __cpu_setup 까지
+
+## 12주차
+- 2020.11.07, A_2조, 온라인
+- arm64 memory management 문서
+- (https://developer.arm.com/architectures/learn-the-architecture/memory-management)
+- ~ 4.Address spaces in AArch64
+- head.S(5)
+- ~ __enable_mmu 까지
