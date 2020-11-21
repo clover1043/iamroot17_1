@@ -65,3 +65,9 @@ http://www.iamroot.org/xe/index.php?document_srl=212973&mid=Note#0
 - head.S(5)
 
   ~ __enable_mmu 까지
+
+## 13주차
+- 2020.11.21, A_2조, 온라인
+- head.S(6) 完
+
+  ~ start_kernel 직전까지
