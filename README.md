@@ -71,3 +71,10 @@ http://www.iamroot.org/xe/index.php?document_srl=212973&mid=Note#0
 - head.S(6) 完
 
   ~ start_kernel 직전까지
+
+
+## 14주차
+- 2020.11.28, A_2조, 온라인
+- start_kernel
+
+  ~ smp_setup_processor_id 까지.
