@@ -78,3 +78,10 @@ http://www.iamroot.org/xe/index.php?document_srl=212973&mid=Note#0
 - start_kernel
 
   ~ smp_setup_processor_id 까지.
+
+## 15주차
+- 2020.12.05, A_2조, 온라인
+- start_kernel
+  - debug_objects_early_init();
+  - cgroup_init_early()
+  ~ init_cgroup_root 안에 init_cgroup_housekeeping 까지.
